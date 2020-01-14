@@ -1,6 +1,6 @@
 {
-  "name": "resthub2",
-  "version": "2.0.0",
+  "name": "restapi",
+  "version": "1.0.0",
   "description": "A Node App demonstrating simple RESTFul API implementation",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "mongodb",
     "express"
   ],
-  "author": "David Inyang-Etoh",
+  "author": "iban.moreno.martin@gmail.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
